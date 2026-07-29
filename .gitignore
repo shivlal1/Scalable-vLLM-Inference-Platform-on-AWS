@@ -1,0 +1,9 @@
+.idea/
+*.iml
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+cdk.out/
+.env
